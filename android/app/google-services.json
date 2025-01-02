@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "522819141062",
+    "project_id": "social-media-habib",
+    "storage_bucket": "social-media-habib.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:522819141062:android:ac3595d34015bf557846c7",
+        "android_client_info": {
+          "package_name": "com.example.sosmed"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCZltjO4fqs8RyFM9xVYQz655a6SEzuUYQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
